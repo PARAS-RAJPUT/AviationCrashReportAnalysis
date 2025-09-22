@@ -59,9 +59,7 @@ This project presents a detailed exploratory and statistical analysis of aviatio
 
     scipy (for statistical tests)
 
-📁 File Structure
 
-. ├── Aviation_Accidents_Analysis.ipynb ← Main notebook ├── AviationAccidentStatistics_2004-2023.xlsx ← Dataset └── README.md
 📈 Sample Visuals
 
     Year-wise accident trends (line chart)
@@ -80,10 +78,3 @@ This project presents a detailed exploratory and statistical analysis of aviatio
 
     Geospatial US map visualization using GeoPandas or Plotly
 
-
-—
-
-Would you like me to create this as a downloadable file or copy it directly into a GitHub repository structure?
-
-
-ChatGPT can make m
